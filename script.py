@@ -6,6 +6,7 @@ import requests
 
 print( sys.version )
 print(sys.executable)
+print(sys.executable)
 
 
 def great(who_to_great):
